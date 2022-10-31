@@ -15,5 +15,5 @@ cys
 024thunderstorm
 dorkweek
 close chuckle
-Cgweek
+cgweek
 fatal
