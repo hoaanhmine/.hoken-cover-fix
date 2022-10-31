@@ -69,6 +69,8 @@ function onCreate()
 	setScrollFactor('MANIA', 2,2);
 	addLuaSprite('MANIA', true);
 
+close(true);
+
 
 function onUpdate(elapsed)
     setObjectCamera('MANIA', 'hud');
