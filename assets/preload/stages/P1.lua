@@ -2,11 +2,11 @@ local yy = 400
 
 function onCreate()
 	
-	makeAnimatedLuaSprite('Bg','RTX/CYS/Bg1',-700, 0)addAnimationByPrefix('Bg', 'idle','Bg',20,true)
-	objectPlayAnimation('Bg','idle',false)
-	setScrollFactor('Bg', 1, 1);
-	scaleObject('Bg', 1.3, 1.1);
-	addLuaSprite('Bg', false);
+	makeAnimatedLuaSprite('BG','RTX/CYS/BG1',-700, 0)addAnimationByPrefix('BG', 'idle','BG',20,true)
+	objectPlayAnimation('BG','idle',false)
+	setScrollFactor('BG', 1, 1);
+	scaleObject('BG', 1.3, 1.1);
+	addLuaSprite('BG', false);
 	
 
     makeLuaSprite('Sh', 'Shadow', 0, 0);
@@ -14,11 +14,10 @@ function onCreate()
 	addLuaSprite('Sh', true);
     setObjectCamera('Sh', 'hud')
 	
-    makeLuaSprite('EXE', 'RTX/CYS/EXE1', 0, 0);
-	scaleObject('EXE', 0.7,0.7);
-	addLuaSprite('EXE', true);
-    setObjectCamera('EXE', 'Other')
-	doTweenAlpha('EXEFade', 'EXE', 0, 1, 'linear');
+    makeLuaSprite('exe', 'RTX/CYS/exe1', 0, 0);
+	scaleObject('exe', 0.7,0.7);
+	addLuaSprite('exe', true);
+    setObjectCamera('exe', 'Other')
 
 end
 
