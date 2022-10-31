@@ -13,15 +13,6 @@ function onCreate()
     doTweenAlpha('iconP11', 'iconP1', 0, 0.01, 'linear');
     doTweenAlpha('iconP22', 'iconP2', 0, 0.01, 'linear');
 
-    noteTweenAlpha("NoteAlpha0" , 0 , 0.8, 0.1, cubeInOut)
-    noteTweenAlpha("NoteAlpha1" , 1 , 0.8, 0.2, cubeInOut)
-    noteTweenAlpha("NoteAlpha2" , 2 , 0.8, 0.3, cubeInOut)
-    noteTweenAlpha("NoteAlpha3" , 3 , 0.8, 0.4, cubeInOut)
-    noteTweenAlpha("NoteAlpha4" , 4 , 0.8, 0.5, cubeInOut)
-    noteTweenAlpha("NoteAlpha5" , 5 , 0.8, 0.6, cubeInOut)
-    noteTweenAlpha("NoteAlpha6" , 6 , 0.8, 0.7, cubeInOut)
-    noteTweenAlpha("NoteAlpha7" , 7 , 0.8, 0.8, cubeInOut)
-
     
 end
 
@@ -176,16 +167,7 @@ function onStepHit()
         doTweenAlpha('gfWE', 'gf', 0, 0.01, 'linear');
         doTweenAlpha('bfWE', 'boyfriend', 0, 0.01, 'linear');
         doTweenAlpha('dadWE', 'dad', 0, 0.01, 'linear');
-        noteTweenAlpha("NoteAlpha0" , 0 , 0.9, TimeA, cubeInOut)
-        noteTweenAlpha("NoteAlpha1" , 1 , 0.9, TimeA, cubeInOut)
-        noteTweenAlpha("NoteAlpha2" , 2 , 0.9, TimeA, cubeInOut)
-        noteTweenAlpha("NoteAlpha3" , 3 , 0.9, TimeA, cubeInOut)
-        noteTweenAlpha("NoteAlpha4" , 4 , 0.9, TimeA, cubeInOut)
-        noteTweenAlpha("NoteAlpha5" , 5 , 0.9, TimeA, cubeInOut)
-        noteTweenAlpha("NoteAlpha6" , 6 , 0.9, TimeA, cubeInOut)
-        noteTweenAlpha("NoteAlpha7" , 7 , 0.9, TimeA, cubeInOut)
-
-    end
+        end
 
     if curStep == 105 then
         doTweenAlpha('dadWE', 'dad', 1, 1, 'linear');
