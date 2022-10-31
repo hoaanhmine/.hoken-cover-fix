@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NikkuIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NikkuRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NikkuLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NikkuUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-157
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NikkuDOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ugh",
+			"indices": [],
+			"name": "NikkuUGH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "h24/nightland/NikkuAssets",
+	"position": [
+		40,
+		-160
+	],
+	"healthicon": "nikku",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		14,
+		54
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

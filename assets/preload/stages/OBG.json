@@ -1,0 +1,10 @@
+{
+	"directory": "OGB",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+	"hide_girlfriend": false,
+
+	"boyfriend": [570, 700],
+	"girlfriend": [100, 690],
+	"opponent": [-100, 700]
+}

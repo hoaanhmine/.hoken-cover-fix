@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": " Idle0"
+		},
+		{
+			"offsets": [
+				66,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": " up"
+		},
+		{
+			"offsets": [
+				107,
+				-103
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": " left"
+		},
+		{
+			"offsets": [
+				136,
+				-203
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": " Down0"
+		},
+		{
+			"offsets": [
+				-43,
+				-136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": " right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Taeyai",
+	"position": [
+		0,
+		-100
+	],
+	"healthicon": "a",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		60,
+		166
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

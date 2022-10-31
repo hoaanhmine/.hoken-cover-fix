@@ -1,0 +1,7 @@
+{
+	"name": "Cover UTAU 1",
+	"description": "Cover UTAU",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

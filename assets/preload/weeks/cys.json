@@ -1,0 +1,26 @@
+{
+	"storyName": "Confronting yourself",
+	"difficulties": "Utau",
+	"hideFreeplay": false,
+	"weekBackground": "CYS",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Confronting Yourself",
+			"exe",
+			[
+				115,
+				0,
+				20
+			]
+		]
+	],
+	"weekName": "CYS"
+}

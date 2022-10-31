@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jayden.png"><SubTexture name="jayden idle0000" x="589" y="3028" width="615" height="875" frameX="-278" frameY="-521" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0001" x="2362" y="2063" width="627" height="911" frameX="-266" frameY="-486" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0002" x="1145" y="2063" width="635" height="951" frameX="-258" frameY="-446" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0003" x="1145" y="2063" width="635" height="951" frameX="-258" frameY="-446" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0004" x="2142" y="994" width="641" height="978" frameX="-252" frameY="-421" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0005" x="2142" y="0" width="646" height="994" frameX="-247" frameY="-406" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0006" x="2142" y="0" width="646" height="994" frameX="-247" frameY="-406" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0007" x="0" y="1048" width="652" height="1015" frameX="-241" frameY="-385" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0008" x="0" y="1048" width="652" height="1015" frameX="-241" frameY="-385" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0009" x="0" y="1048" width="652" height="1015" frameX="-241" frameY="-385" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0010" x="0" y="1048" width="652" height="1015" frameX="-241" frameY="-385" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden idle0011" x="0" y="1048" width="652" height="1015" frameX="-241" frameY="-385" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden left0000" x="570" y="2063" width="575" height="954" frameX="-267" frameY="-446" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden left0001" x="570" y="2063" width="575" height="954" frameX="-267" frameY="-446" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden left0002" x="0" y="2063" width="570" height="965" frameX="-272" frameY="-435" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden left0003" x="2788" y="0" width="559" height="968" frameX="-283" frameY="-432" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden left0004" x="2788" y="0" width="559" height="968" frameX="-283" frameY="-432" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden left0005" x="2788" y="0" width="559" height="968" frameX="-283" frameY="-432" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden right0000" x="1204" y="1048" width="567" height="1001" frameX="-395" frameY="-399" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden right0001" x="1204" y="1048" width="567" height="1001" frameX="-395" frameY="-399" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden right0002" x="652" y="1048" width="552" height="1014" frameX="-395" frameY="-386" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden right0003" x="1601" y="0" width="541" height="1019" frameX="-393" frameY="-381" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden right0004" x="1601" y="0" width="541" height="1019" frameX="-393" frameY="-381" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden right0005" x="1601" y="0" width="541" height="1019" frameX="-393" frameY="-381" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden down0000" x="0" y="3028" width="589" height="886" frameX="-253" frameY="-514" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden down0001" x="0" y="3028" width="589" height="886" frameX="-253" frameY="-514" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden down0002" x="3347" y="0" width="586" height="908" frameX="-256" frameY="-492" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden down0003" x="1780" y="2063" width="582" height="923" frameX="-260" frameY="-477" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden down0004" x="1780" y="2063" width="582" height="923" frameX="-260" frameY="-477" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden down0005" x="1780" y="2063" width="582" height="923" frameX="-260" frameY="-477" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden up0000" x="0" y="0" width="528" height="1048" frameX="-407" frameY="-353" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden up0001" x="0" y="0" width="528" height="1048" frameX="-407" frameY="-353" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden up0002" x="528" y="0" width="533" height="1034" frameX="-398" frameY="-366" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden up0003" x="1061" y="0" width="540" height="1024" frameX="-395" frameY="-376" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden up0004" x="1061" y="0" width="540" height="1024" frameX="-395" frameY="-376" frameWidth="1200" frameHeight="1800" />
+<SubTexture name="jayden up0005" x="1061" y="0" width="540" height="1024" frameX="-395" frameY="-376" frameWidth="1200" frameHeight="1800" />
+</TextureAtlas>

@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				-126
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-153
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-112
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				-130
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "1 instance"
+		},
+		{
+			"offsets": [
+				66,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block",
+			"indices": [],
+			"name": "Ouch instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				242,
+				80
+			],
+			"anim": "hadoken",
+			"fps": 24,
+			"name": "Hadoken!! instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-70
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "PewUp instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-150
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Pewleft instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-148
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "pewdown instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-130
+			],
+			"anim": "roundattack",
+			"fps": 24,
+			"name": "Roundattack instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-110
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "PewRight instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				-152
+			],
+			"anim": "phase2start",
+			"fps": 24,
+			"name": "Phase 2 starts instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": true,
+			"name": "DIE BITCH instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cuphead Pissed",
+	"position": [
+		90,
+		350
+	],
+	"healthicon": "cuphead-pissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		172,
+		14,
+		73
+	],
+	"camera_position": [
+		-50,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

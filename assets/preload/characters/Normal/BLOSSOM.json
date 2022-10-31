@@ -1,0 +1,148 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				29,
+				-184
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": "BC UP NOTE"
+		},
+		{
+			"offsets": [
+				29,
+				-184
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "BLOSSOM IDLE"
+		},
+		{
+			"offsets": [
+				29,
+				-184
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "idle",
+			"indices": [],
+			"name": "BLOSSOM IDLE"
+		},
+		{
+			"offsets": [
+				24,
+				-189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BLOSSOM RIGHT"
+		},
+		{
+			"offsets": [
+				11,
+				-192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BLOSSOM DOWN"
+		},
+		{
+			"offsets": [
+				18,
+				-177
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "BLOSSOM LEFT"
+		},
+		{
+			"offsets": [
+				18,
+				-177
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "BLOSSOM RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-177
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BLOSSOM LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				33,
+				-180
+			],
+			"anim": "singUP",
+			"fps": 0,
+			"name": "BLOSSOM UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				33,
+				-180
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "BLOSSOM UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BLOSSOM",
+	"position": [
+		200,
+		70
+	],
+	"healthicon": "blossom",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		159,
+		186
+	],
+	"camera_position": [
+		100,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

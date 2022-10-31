@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-150
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Clips"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				52
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Clips"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				10
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left Clips"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle Clips"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				58
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Right miss Clips"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				-147
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down miss Clips"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				70
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up miss Clips"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				53
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Left miss Clips"
+		},
+		{
+			"offsets": [
+				57,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right Clips"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "h24/nightland/blue_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "clips",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		164,
+		65
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

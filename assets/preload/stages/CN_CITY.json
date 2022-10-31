@@ -1,0 +1,9 @@
+{
+	"directory": "CN_CITY",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [770, 900],
+	"girlfriend": [400, 930],
+	"opponent": [100, 900]
+}

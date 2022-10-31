@@ -1,0 +1,26 @@
+{
+	"storyName": "By Hoken",
+	"difficulties": "Utau",
+	"hideFreeplay": false,
+	"weekBackground": "spin",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"spinterview",
+			"a",
+			[
+				115,
+				0,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}

@@ -1,0 +1,26 @@
+{
+	"storyName": "hoken",
+	"difficulties": "Utau",
+	"hideFreeplay": false,
+	"weekBackground": "markov",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"MARKOV",
+			"niku",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": ""
+}

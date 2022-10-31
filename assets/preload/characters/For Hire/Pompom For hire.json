@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				26
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				35,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				27,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				11,
+				-46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "forhire/pompom_assets",
+	"position": [
+		220,
+		-80
+	],
+	"healthicon": "a",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		78,
+		115
+	],
+	"camera_position": [
+		100,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

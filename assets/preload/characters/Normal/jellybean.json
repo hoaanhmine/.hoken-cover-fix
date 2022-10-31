@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "JellyBean Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "JellyBean NOTE Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "JellyBean NOTE Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "JellyBean MISS Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "JellyBean MISS Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "JellyBean NOTE Down"
+		},
+		{
+			"offsets": [
+				0,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "JellyBean NOTE Up"
+		},
+		{
+			"offsets": [
+				0,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "JellyBean MISS Down"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "JellyBean MISS Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jellybean",
+	"position": [
+		90,
+		210
+	],
+	"healthicon": "jellybean",
+	"flip_x": true,
+	"healthbar_colors": [
+		221,
+		133,
+		234
+	],
+	"camera_position": [
+		-40,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

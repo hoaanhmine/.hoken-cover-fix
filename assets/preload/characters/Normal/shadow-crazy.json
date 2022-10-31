@@ -1,0 +1,356 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-55,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle crazy"
+		},
+		{
+			"offsets": [
+				80,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "up crazy"
+		},
+		{
+			"offsets": [
+				80,
+				-12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				15
+			],
+			"name": "up crazy"
+		},
+		{
+			"offsets": [
+				6,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "left crazy"
+		},
+		{
+			"offsets": [
+				6,
+				-28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				15
+			],
+			"name": "left crazy"
+		},
+		{
+			"offsets": [
+				-53,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "right crazy"
+		},
+		{
+			"offsets": [
+				-53,
+				-19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				15
+			],
+			"name": "right crazy"
+		},
+		{
+			"offsets": [
+				-40,
+				-235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "down crazy"
+		},
+		{
+			"offsets": [
+				-40,
+				-235
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				15
+			],
+			"name": "down crazy"
+		},
+		{
+			"offsets": [
+				80,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "up crazy"
+		},
+		{
+			"offsets": [
+				6,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "left crazy"
+		},
+		{
+			"offsets": [
+				-53,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "right crazy"
+		},
+		{
+			"offsets": [
+				-40,
+				-235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [
+				0,
+				2,
+				4,
+				6,
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "down crazy"
+		},
+		{
+			"offsets": [
+				-47,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "shoot crazy"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "die",
+			"fps": 24,
+			"name": "die",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-55,
+				12
+			],
+			"loop": true,
+			"fps": 22,
+			"anim": "idle-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle crazy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadow crazy",
+	"position": [
+		-45,
+		45
+	],
+	"healthicon": "shadow",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		40,
+		40
+	],
+	"camera_position": [
+		-180,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

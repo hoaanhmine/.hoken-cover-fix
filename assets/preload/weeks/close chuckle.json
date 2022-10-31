@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Utau",
+	"hideFreeplay": false,
+	"weekBackground": "close_chuckle",
+	"weekBefore": "dorkweek",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"close-chuckle",
+			"a",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": ""
+}

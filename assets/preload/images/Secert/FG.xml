@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RECOVER_RECOVER_bg chars.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="foreground0000" x="10" y="10" width="2197" height="1026"/>
+	<SubTexture name="foreground0001" x="2207" y="10" width="2197" height="1026"/>
+	<SubTexture name="foreground0002" x="4404" y="10" width="2197" height="1026"/>
+	<SubTexture name="foreground0003" x="10" y="1036" width="2197" height="1026"/>
+	<SubTexture name="foreground0004" x="2207" y="1036" width="2197" height="1026"/>
+	<SubTexture name="foreground0005" x="4404" y="1036" width="2197" height="1026"/>
+	<SubTexture name="foreground0006" x="4404" y="1036" width="2197" height="1026"/>
+	<SubTexture name="foreground0007" x="4404" y="1036" width="2197" height="1026"/>
+	<SubTexture name="foreground0008" x="4404" y="1036" width="2197" height="1026"/>
+	<SubTexture name="foreground0009" x="4404" y="1036" width="2197" height="1026"/>
+</TextureAtlas>

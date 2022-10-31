@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dorkly idle"
+		},
+		{
+			"offsets": [
+				67,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dorkly left"
+		},
+		{
+			"offsets": [
+				55,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dorkly down"
+		},
+		{
+			"offsets": [
+				16,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dorkly up"
+		},
+		{
+			"offsets": [
+				29,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dorkly right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "forhire/dorkly_assets",
+	"position": [
+		10,
+		260
+	],
+	"healthicon": "dorkly",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		255
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

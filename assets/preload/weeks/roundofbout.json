@@ -1,0 +1,26 @@
+{
+	"storyName": "By Hoken",
+	"difficulties": "Utau",
+	"hideFreeplay": false,
+	"weekBackground": "RAB",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Round-a-bout",
+			"exe",
+			[
+				115,
+				0,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": ""
+}

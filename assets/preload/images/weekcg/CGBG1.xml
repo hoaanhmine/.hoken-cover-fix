@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CGBG1.png"><SubTexture name="CGBG1 CGBG10000" x="0" y="0" width="2673" height="1916" frameX="0" frameY="0" frameWidth="2673" frameHeight="1916" />
+</TextureAtlas>

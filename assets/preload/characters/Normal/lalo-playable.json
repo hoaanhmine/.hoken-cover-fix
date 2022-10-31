@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LaloIdle"
+		},
+		{
+			"offsets": [
+				101,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LaloUp"
+		},
+		{
+			"offsets": [
+				304,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LaloDown"
+		},
+		{
+			"offsets": [
+				262,
+				111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LaloRight"
+		},
+		{
+			"offsets": [
+				192,
+				101
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "LaloLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lalo_Assets",
+	"position": [
+		-310,
+		-220
+	],
+	"healthicon": "Lalo",
+	"flip_x": false,
+	"healthbar_colors": [
+		2,
+		0,
+		123
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 0.8
+}

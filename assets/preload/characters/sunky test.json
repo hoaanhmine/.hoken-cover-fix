@@ -1,0 +1,152 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-318
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SUNKY NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				-501
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SUNKY NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-96
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SUNKY NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				-80
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SUNKY NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-353
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "SUNKY NOTE LEFT ALT"
+		},
+		{
+			"offsets": [
+				33,
+				-547
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SUNKY NOTE DOWN ALT"
+		},
+		{
+			"offsets": [
+				-30,
+				-338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "SUNKY NOTE UP ALT"
+		},
+		{
+			"offsets": [
+				-28,
+				-309
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "SUNKY NOTE RIGHT ALT"
+		},
+		{
+			"offsets": [
+				128,
+				-333
+			],
+			"indices": [
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "SUNKY IDLE DANCE"
+		},
+		{
+			"offsets": [
+				63,
+				-332
+			],
+			"indices": [
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "SUNKY IDLE DANCE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "RTX/sunky/sunky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		81,
+		255
+	],
+	"camera_position": [
+		30,
+		360
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

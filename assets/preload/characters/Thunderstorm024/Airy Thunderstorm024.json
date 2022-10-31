@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				288,
+				319
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Airy idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				296,
+				444
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Airy down"
+		},
+		{
+			"offsets": [
+				345,
+				308
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Airy left"
+		},
+		{
+			"offsets": [
+				147,
+				333
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Airy right"
+		},
+		{
+			"offsets": [
+				246,
+				158
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Airy up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "h24/thunderstorm/airy",
+	"position": [
+		0,
+		330
+	],
+	"healthicon": "f",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		235,
+		229
+	],
+	"camera_position": [
+		-210,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

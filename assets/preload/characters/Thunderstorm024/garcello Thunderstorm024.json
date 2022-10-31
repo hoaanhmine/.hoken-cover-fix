@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "garcello idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "garcello left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "garcello right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-5
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "garcello down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "garcello up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "h24/thunderstorm/garcello",
+	"position": [
+		-500,
+		-110
+	],
+	"healthicon": "gar",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		144
+	],
+	"camera_position": [
+		30,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

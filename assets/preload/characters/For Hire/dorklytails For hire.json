@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dorkly Tails-Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				-124
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dorkly Tails-Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-148
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dorkly Tails-Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-146
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dorkly Tails-Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-107,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dorkly Tails-Down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "forhire/Dorkly Tails",
+	"position": [
+		20,
+		260
+	],
+	"healthicon": "dorkly-tails",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		139,
+		0
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

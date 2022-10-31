@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				288,
+				319
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "jayden idle"
+		},
+		{
+			"offsets": [
+				286,
+				314
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jayden down"
+		},
+		{
+			"offsets": [
+				295,
+				318
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jayden right"
+		},
+		{
+			"offsets": [
+				267,
+				323
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jayden left"
+		},
+		{
+			"offsets": [
+				286,
+				318
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jayden up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jayden",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "f",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		235,
+		229
+	],
+	"camera_position": [
+		-50,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ycr sonic idle"
+		},
+		{
+			"offsets": [
+				-8,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ycr sonic up"
+		},
+		{
+			"offsets": [
+				-8,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ycr sonic left"
+		},
+		{
+			"offsets": [
+				-8,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ycr sonic right"
+		},
+		{
+			"offsets": [
+				-16,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ycr sonic down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "RTX/YCRENCORE/ycr_sonic_sheet",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "Ycrpixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		64,
+		160
+	],
+	"camera_position": [
+		-400,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 9
+}

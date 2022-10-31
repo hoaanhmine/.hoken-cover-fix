@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				-330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SUNKY IDLE DANCE"
+		},
+		{
+			"offsets": [
+				-10,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SUNKY NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-93,
+				-501
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SUNKY NOTE DOWN0"
+		},
+		{
+			"offsets": [
+				-83,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SUNKY NOTE UP0"
+		},
+		{
+			"offsets": [
+				-129,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SUNKY NOTE RIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				-347
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "SUNKY NOTE LEFT ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-540
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SUNKY NOTE DOWN ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-338
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SUNKY NOTE UP ALT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-309
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "SUNKY NOTE RIGHT ALT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "RTX/sunky/sunky",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		81,
+		255
+	],
+	"camera_position": [
+		30,
+		360
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

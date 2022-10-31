@@ -1,0 +1,31 @@
+{
+	"storyName": "hoken",
+	"difficulties": "Utau",
+	"hideFreeplay": false,
+	"weekBackground": "Nightland",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "disassembler",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Nightland",
+			"a",
+			[
+				80,
+				53,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

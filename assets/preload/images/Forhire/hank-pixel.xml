@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hank-pixel.png">
+<SubTexture name="BF IDLE0000" x="0" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0001" x="0" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0002" x="104" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0003" x="104" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0004" x="208" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0005" x="208" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0006" x="312" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0007" x="312" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0008" x="416" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0009" x="416" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0010" x="520" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0011" x="520" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF IDLE0012" x="624" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF DOWN0000" x="728" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF DOWN0001" x="728" y="0" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF DOWN0002" x="0" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF DOWN0003" x="0" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF DOWN0004" x="104" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF DOWN0005" x="104" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF DOWN0006" x="208" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF DOWN0007" x="208" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF DOWN0008" x="312" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF DOWN0009" x="312" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF UP0000" x="416" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF UP0001" x="416" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF UP0002" x="520" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF UP0003" x="520" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF UP0004" x="624" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF UP0005" x="624" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF UP0006" x="728" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF UP0007" x="728" y="104" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF UP0008" x="0" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF UP0009" x="0" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF RIGHT0000" x="104" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF RIGHT0001" x="104" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF RIGHT0002" x="208" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF RIGHT0003" x="208" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF RIGHT0004" x="312" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF RIGHT0005" x="312" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF RIGHT0006" x="416" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF RIGHT0007" x="416" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF RIGHT0008" x="520" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF RIGHT0009" x="520" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF LEFT 0000" x="624" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF LEFT 0001" x="728" y="208" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF LEFT 0002" x="0" y="312" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF LEFT 0003" x="104" y="312" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF LEFT 0004" x="208" y="312" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF LEFT 0005" x="312" y="312" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF LEFT 0006" x="416" y="312" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF LEFT 0007" x="520" y="312" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF LEFT 0008" x="624" y="312" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="BF LEFT 0009" x="728" y="312" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank screamright 0000" x="0" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank screamright 0001" x="0" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank screamright 0002" x="104" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank screamright 0003" x="104" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank screamright 0004" x="208" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank screamright 0005" x="208" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank screamright 0006" x="312" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank screamright 0007" x="312" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank screamright 0008" x="416" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank screamright 0009" x="416" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0000" x="520" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0001" x="624" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0002" x="728" y="416" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0003" x="0" y="520" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0004" x="104" y="520" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0005" x="208" y="520" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0006" x="312" y="520" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0007" x="416" y="520" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0008" x="520" y="520" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0009" x="624" y="520" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0010" x="728" y="520" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0011" x="0" y="624" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="HankGetReady 0012" x="104" y="624" width="104" height="104" frameX="0" frameY="0" frameWidth="104" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0000" x="208" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0001" x="208" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0002" x="332" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0003" x="332" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0004" x="456" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0005" x="456" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0006" x="580" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0007" x="580" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0008" x="704" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0009" x="704" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0010" x="828" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0011" x="828" y="624" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0012" x="0" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Down Shoot 0013" x="0" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0000" x="124" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0001" x="124" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0002" x="248" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0003" x="248" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0004" x="372" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0005" x="372" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0006" x="496" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0007" x="496" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0008" x="620" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0009" x="620" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0010" x="744" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0011" x="744" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0012" x="868" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Up shoot 0013" x="868" y="728" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0000" x="0" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0001" x="0" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0002" x="124" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0003" x="124" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0004" x="248" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0005" x="248" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0006" x="372" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0007" x="372" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0008" x="496" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0009" x="496" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0010" x="620" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0011" x="620" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0012" x="744" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank right shoot 0013" x="744" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0000" x="868" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0001" x="868" y="832" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0002" x="0" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0003" x="0" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0004" x="124" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0005" x="124" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0006" x="248" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0007" x="248" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0008" x="372" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0009" x="372" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0010" x="496" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0011" x="496" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0012" x="620" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+<SubTexture name="Hank Left Shoot 0013" x="620" y="936" width="124" height="104" frameX="0" frameY="0" frameWidth="124" frameHeight="104" />
+</TextureAtlas>

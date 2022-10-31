@@ -1,0 +1,31 @@
+{
+	"storyName": "hoken",
+	"difficulties": "Utau",
+	"hideFreeplay": false,
+	"weekBackground": "thunderstorm024",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "disassembler",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"024thunderstorm",
+			"a",
+			[
+				80,
+				53,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

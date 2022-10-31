@@ -1,0 +1,26 @@
+{
+	"storyName": "By Hoken",
+	"difficulties": "Utau",
+	"hideFreeplay": false,
+	"weekBackground": "FATAL",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"fatality",
+			"a",
+			[
+				115,
+				0,
+				20
+			]
+		]
+	],
+	"weekName": ""
+}

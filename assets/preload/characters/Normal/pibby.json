@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-175,
+				-134
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "bubbles kill loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pibby left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pibby down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pibby right note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				867,
+				201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Pibby bubbles kill"
+		},
+		{
+			"offsets": [
+				-48,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pibby right miss"
+		},
+		{
+			"offsets": [
+				-40,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Pibby up miss"
+		},
+		{
+			"offsets": [
+				-40,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Pibby up note"
+		},
+		{
+			"offsets": [
+				-13,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pibby down miss"
+		},
+		{
+			"offsets": [
+				73,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pibby left miss"
+		},
+		{
+			"offsets": [
+				-17,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Pibby idle"
+		},
+		{
+			"offsets": [
+				-175,
+				-134
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "bubbles kill loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pibby_assets",
+	"position": [
+		180,
+		430
+	],
+	"healthicon": "pibby icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		96,
+		255
+	],
+	"camera_position": [
+		990,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				-280
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-360
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BC IDLE DANCE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				79,
+				-360
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "BC IDLE DANCE"
+		},
+		{
+			"offsets": [
+				0,
+				-380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BC DOWN NOTE"
+		},
+		{
+			"offsets": [
+				20,
+				-370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BC LEFT NOTE"
+		},
+		{
+			"offsets": [
+				20,
+				-370
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "BC UP NOTE"
+		},
+		{
+			"offsets": [
+				20,
+				-370
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "BC LEFT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				-370
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BC RIGHT NOTE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				-281
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "BC UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-280
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BC UP NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				0
+			],
+			"anim": "blank",
+			"fps": 0,
+			"name": "blank",
+			"indices": []
+		},
+		{
+			"offsets": [
+				677,
+				306
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "BC FLY IN",
+			"indices": [],
+			"name": "BC FLY IN"
+		},
+		{
+			"offsets": [
+				676,
+				307
+			],
+			"indices": [],
+			"fps": -2147483648,
+			"anim": "Fly In",
+			"loop": false,
+			"name": "BC FLY IN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BUTTERCUP",
+	"position": [
+		130,
+		70
+	],
+	"healthicon": "buttercup",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		182,
+		20
+	],
+	"camera_position": [
+		-20,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

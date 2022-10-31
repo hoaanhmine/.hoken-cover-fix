@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				288,
+				319
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jayden idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				318
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jayden down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				291,
+				318
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jayden right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				293,
+				321
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jayden left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				318
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jayden up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "h24/thunderstorm/jayden",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "f",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		235,
+		229
+	],
+	"camera_position": [
+		-50,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				117,
+				72
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				57,
+				90
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				188,
+				14
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				77,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "forhire/whittysprites",
+	"position": [
+		100,
+		80
+	],
+	"healthicon": "a",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		78,
+		115
+	],
+	"camera_position": [
+		100,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
