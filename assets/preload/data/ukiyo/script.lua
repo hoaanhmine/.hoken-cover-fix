@@ -1,6 +1,3 @@
-local xx = 940;
-local yy = 400;
-
 function onCreate()
   makeLuaText('watermark', songName .. " Remaster - FNF ( UTAU Cover ) By Hoken :/ ", 0, -450, 5);
   addLuaText('watermark');
