@@ -27,56 +27,56 @@ function onCreate()
     setScrollFactor('barbot',0,0)
     setObjectCamera('barbot','hud') 
 
-	makeLuaSprite('bg', 'h24/images/Covers/bg', -300, 0);
+	makeLuaSprite('bg', 'h24/images/covers/bg', -300, 0);
 	setScrollFactor('bg', 1,1);
 	scaleObject('bg',2,2 );
 	addLuaSprite('bg', false);
 
-    makeLuaSprite('sun', 'h24/images/Covers/sun', 0, -100);
+    makeLuaSprite('sun', 'h24/images/covers/sun', 0, -100);
 	setScrollFactor('sun', 1,1);
 	scaleObject('sun',1,1 );
 	addLuaSprite('sun', false);
 
 
-    makeLuaSprite('CD', 'h24/images/Covers/clouds', 400, 100);
+    makeLuaSprite('CD', 'h24/images/covers/clouds', 400, 100);
 	setScrollFactor('CD', 1,1);
 	scaleObject('CD',1,1 );
 	addLuaSprite('CD', false);
 
-    makeLuaSprite('BDS', 'h24/images/Covers/buildings', 0, 0);
+    makeLuaSprite('BDS', 'h24/images/covers/buildings', 0, 0);
 	setScrollFactor('BDS', 1,1);
 	scaleObject('BDS',1,1 );
 	addLuaSprite('BDS', false);
 
-    makeLuaSprite('HIL', 'h24/images/Covers/hills', -650, -300);
+    makeLuaSprite('HIL', 'h24/images/covers/hills', -650, -300);
 	setScrollFactor('HIL', 1,1);
 	scaleObject('HIL',1.5,1.5 );
 	addLuaSprite('HIL', false);
 
-    makeLuaSprite('CAS', 'h24/images/Covers/castle',-650, -200);
+    makeLuaSprite('CAS', 'h24/images/covers/castle',-650, -200);
 	setScrollFactor('CAS', 1,1);
 	scaleObject('CAS',1.5,1.5 );
 	addLuaSprite('CAS', false);
 
-    makeLuaSprite('GROUND', 'h24/images/Covers/ground', -400, -240);
+    makeLuaSprite('GROUND', 'h24/images/covers/ground', -400, -240);
 	setScrollFactor('GROUND', 1,1);
 	scaleObject('GROUND',1.3,1.3 );
 	addLuaSprite('GROUND', false);
 
 
-    makeLuaSprite('CA', 'h24/images/Covers/cables', -650, -300);
+    makeLuaSprite('CA', 'h24/images/covers/cables', -650, -300);
 	setScrollFactor('suCAn', 1,1);
 	scaleObject('CA',1.5,1.5 );
 	addLuaSprite('CA', true);
     
-    makeLuaSprite('LGD', 'h24/images/Covers/light', 0, 0);
+    makeLuaSprite('LGD', 'h24/images/covers/light', 0, 0);
 	setScrollFactor('LGD', 1,1);
 	scaleObject('LGD',1,1 );
 	addLuaSprite('LGD', true);
 
 
 
-    makeLuaSprite('WTH', 'h24/images/Covers/White', -300, 0);
+    makeLuaSprite('WTH', 'h24/images/covers/White', -300, 0);
 	setScrollFactor('WTH', 1,1);
 	scaleObject('WTH',4,4 );
 	addLuaSprite('WTH', false);
