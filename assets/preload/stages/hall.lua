@@ -1,4 +1,4 @@
-doRockHover = false;
+
 
 function onCreate()
 	-- -- background shit
@@ -16,7 +16,3 @@ function onCreate()
 end
 
 -- -350 + Math.sin((Conductor.songPosition / 1000) * (Conductor.bpm / 60) * 1.5) * 12.5;
-
-function onUpdate(elapsed)
-	setProperty('gf.visible',false)
-end
