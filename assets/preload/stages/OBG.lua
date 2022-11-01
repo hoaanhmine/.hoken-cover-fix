@@ -9,8 +9,6 @@ local yy = 999;
 local xx2 = 750;
 local yy2 = 1100;
 local ofs = 85;
-local followchars = true;
-local stopMoving = false;
 local del = 0;
 local del2 = 0;
 local BGX = -900
@@ -68,9 +66,6 @@ function onCreate()
 	makeLuaSprite('MANIA', 'Shaggy/Mania', 0, 0);
 	setScrollFactor('MANIA', 2,2);
 	addLuaSprite('MANIA', true);
-
-close(true);
-
 
 function onUpdate(elapsed)
     setObjectCamera('MANIA', 'hud');
