@@ -1,19 +1,4 @@
 
-local u = false;
-local r = 0;
-local i =0
-local shot = false;
-local agent = 1
-local health = 0;
-local xx = -650;
-local yy = 570;
-local xx2 = -150;
-local yy2 = 925;
-local ofs = 35;
-local followchars = true;
-local stopMoving = false;
-local del = 0;
-local del2 = 0;
 function onCreate()
     setProperty('defaultCamZoom',0.5)
     makeLuaSprite('bartop','',0,-30)
