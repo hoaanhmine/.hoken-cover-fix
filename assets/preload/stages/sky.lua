@@ -1,20 +1,9 @@
-local tilin = false
-local width = 0
-local u = false;
-local r = 0;
-local i =0
-local shot = false;
-local agent = 1
-local health = 0;
+
 local xx = 732;
 local yy = 450;
 local xx2 = 732;
 local yy2 = 450;
 local ofs = 57;
-local followchars = true;
-local stopMoving = false;
-local del = 0;
-local del2 = 0;
 
 function onCreate()
 
@@ -36,13 +25,6 @@ function onUpdate(elapsed)
   i = i + daElapsed
   
   
-  if del > 0 then
-	del = del - 1
-  end
-  if del2 > 0 then
-	del2 = del2 - 1
-  end
-	 if followchars == true then
 		if mustHitSection == false then
 			setProperty('defaultCamZoom',0.8)
 			doTweenAngle('screenTilt', 'camGame', 2, 0.1, 'quadInOut')
@@ -98,7 +80,7 @@ function onUpdate(elapsed)
 			if getProperty('boyfriend.animation.curAnim.name') == 'idle' then
 				triggerEvent('Camera Follow Pos',xx2,yy2)
 			end
-		end
+	end
 	else
 		triggerEvent('Camera Follow Pos','','')
 	end
