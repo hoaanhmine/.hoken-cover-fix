@@ -1,21 +1,3 @@
-local u = false;
-local r = 0;
-local i =0
-local shot = false;
-local agent = 1
-local health = 0;
-local xx = 350;
-local yy = 999;
-local xx2 = 750;
-local yy2 = 1100;
-local ofs = 85;
-local del = 0;
-local del2 = 0;
-local BGX = -900
-local BGY = -300
-local SCX = 1
-local SCY = 1
-
 function onCreate()
 	-- background shit
 	
