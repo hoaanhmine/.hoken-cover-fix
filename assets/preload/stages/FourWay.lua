@@ -100,14 +100,7 @@ end
 
 
 function onStepHit()	
-	if curStep == 1 then
-		setProperty('gf.visible', false);
-		doTweenColor('BFColor', 'boyfriend', 'FFF5D1 ', 0.5, 'quadIn');	
-		setProperty('Bg1.visible', true);
-		setProperty('EffectY.visible', true);
-		setProperty('STARY.visible', true);
-	end
-
+	
 	if curStep == 1296 then
 		makeLuaSprite('Bg2', 'RTX/FWF/BlueBG', Xbg2, YBg2);
 		scaleObject('Bg2', Scale,Scale);
@@ -121,16 +114,9 @@ function onStepHit()
 		makeLuaSprite('STARB', 'RTX/FWF/Blue Star', Xbg2, YBg2);
 		scaleObject('STARB', Scale,Scale);
 		setScrollFactor('STARB', 0.8,0.8);
-		doTweenAlpha('STARBW', 'STARB', 0.7, 0.3, 'linear');
-
-		doTweenColor('BFColor', 'boyfriend', 'B0D1FF', 0.5, 'quadIn');
+		
+		
 		setCharacterX('dad', 40);
-		setProperty('Bg1.visible', false);
-		setProperty('EffectY.visible', false);
-		setProperty('STARY.visible', false);
-		setProperty('Bg2.visible', true);
-		setProperty('EffectB.visible', true);
-		setProperty('STARB.visible', true);	
 		addLuaSprite('Bg2', false)
 		addLuaSprite('EffectB', true)
 		addLuaSprite('STARB', true)
@@ -140,13 +126,8 @@ function onStepHit()
 	end
 
 
-	if curStep == 5235 then
-		doTweenAlpha('BLf', 'BL', 1, 0.5, 'linear');
-	end
+	
 
-	if curStep == 5267 then
-		doTweenAlpha('BLf', 'BL', 0, 0.5, 'linear');
-	end
 
 
 	if curStep == 2820 then
@@ -155,31 +136,9 @@ function onStepHit()
 		setCharacterX('boyfriend', 700);
 		setCharacterY('dad', 180);
 		setCharacterY('boyfriend', 180);
-		setProperty('Bg2.visible', false);
-		setProperty('EffectB.visible', false);
-		setProperty('STARB.visible', false);
-		setProperty('Bg3.visible', true);
-		setProperty('EffectR.visible', true);
-		setProperty('STARR.visible', true);	
-	end
+		end
 
-	if curStep == 5250 then
-		doTweenColor('BFColor', 'boyfriend', 'D9B0FF ', 0.5, 'quadIn');
-		setProperty('Bg3.visible', false);
-		setProperty('EffectR.visible', false);
-		setProperty('STARR.visible', false);
-		setProperty('Bg4.visible', true);
-		setProperty('EffectP.visible', true);
-		setProperty('STARP.visible', true);
-	end
-
-	if curStep == 6356 then
-		setProperty('gf.visible', true);
-	end
-
-	if curStep == 6675 then
-		doTweenAlpha('BLf', 'BL', 1, 2, 'linear');
-	end
+	
 	
 	
 end
