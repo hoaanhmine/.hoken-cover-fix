@@ -1,10 +1,3 @@
-
-local xx = 732;
-local yy = 450;
-local xx2 = 732;
-local yy2 = 450;
-local ofs = 57;
-
 function onCreate()
 
 	makeLuaSprite('sky','RTX/No Good/sky',-400,-200)
