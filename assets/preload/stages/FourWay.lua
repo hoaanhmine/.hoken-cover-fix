@@ -1,11 +1,3 @@
-local t = 0
-local s = 0
-local Xbg = -500
-local Ybg = -100
-local Xbg2 = -500
-local Ybg2 = 0
-local Scale = 1.1
-
 function onCreate()
 	makeLuaSprite('Bg1', 'RTX/FWF/YellowBG', Xbg, YBg);
 	scaleObject('Bg1', Scale,Scale);
