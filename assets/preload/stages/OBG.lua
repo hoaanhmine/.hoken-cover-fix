@@ -1,7 +1,6 @@
 function onCreate()
 	-- background shit
 	
-	local S = 0.6
 	
 	
 	makeLuaSprite('sky', 'Shaggy/OBG/sky', -800, 150);
