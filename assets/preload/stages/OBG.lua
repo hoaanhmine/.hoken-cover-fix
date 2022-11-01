@@ -53,17 +53,7 @@ function onUpdate(elapsed)
     setObjectCamera('MANIA', 'hud');
     setObjectCamera('Sh', 'hud');
 
-	daElapsed = elapsed * 30
-	i = i + daElapsed
 	
-
-	if del > 0 then
-		del = del - 1
-	end
-	if del2 > 0 then
-		del2 = del2 - 1
-	end
-     if followchars == true then
         if mustHitSection == false then
             doTweenAngle('screenTilt', 'camGame', 1.1, 0.1, 'quadInOut')
             if getProperty('dad.animation.curAnim.name') == 'singLEFT' then
@@ -124,8 +114,5 @@ function onUpdate(elapsed)
     else
         triggerEvent('Camera Follow Pos','','')
     end
-    
-end
-
 
 end
