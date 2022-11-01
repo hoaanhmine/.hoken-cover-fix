@@ -1,7 +1,3 @@
-x = 300
-y = -240
-Sc = 1
-
 function onCreate()
 
 	makeLuaSprite('bg','RTX/sunky/BG',x,y)
