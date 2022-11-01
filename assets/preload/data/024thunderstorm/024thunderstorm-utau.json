@@ -9795,9 +9795,9 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "rshaggy thunderstorm024",
+		"gfVersion": "Thunderstorm024/rshaggy thunderstorm024",
 		"events": [],
-		"player3": null,
+		"player3": "Thunderstorm024/rshaggy thunderstorm024",
 		"splashSkin": "note/Thunderstorm024A",
 		"song": "024thunderstorm",
 		"stage": "covers",
