@@ -14,10 +14,6 @@ function onCreate()
 	addLuaSprite('Sh', true);
     setObjectCamera('Sh', 'hud')
 	
-    makeLuaSprite('exe', 'RTX/CYS/exe1', 0, 0);
-	scaleObject('exe', 0.7,0.7);
-	addLuaSprite('exe', true);
-    setObjectCamera('exe', 'Other')
 
 end
 
