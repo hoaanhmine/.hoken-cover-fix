@@ -2656,12 +2656,12 @@
 		"gfVersion": "Ukiyo GF",
 		"events": [],
 		"player3": null,
-		"splashSkin": "weekcg/Notesplashes",
+		"splashSkin": "weekcg/noteSplashes",
 		"song": "ukiyo",
 		"validScore": true,
 		"needsVoices": true,
 		"stage": "cgstage",
-		"arrowSkin": "weekcg/note_assets",
+		"arrowSkin": "weekcg/NOTE_assets",
 		"speed": 2.5,
 		"bpm": 93
 	}
