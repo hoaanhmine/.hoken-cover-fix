@@ -7224,12 +7224,12 @@
 		],
 		"player2": "nikku Nightland",
 		"player3": "piss-cat",
-		"splashSkin": "note/nightlandA",
-		"song": "Nightland",
+		"splashSkin": "note/NightlandA",
+		"song": "nightland",
 		"stage": "nightland",
 		"needsVoices": true,
 		"validScore": true,
-		"arrowSkin": "note/nightland",
+		"arrowSkin": "note/Nightland",
 		"bpm": 240,
 		"speed": 3.5
 	}
