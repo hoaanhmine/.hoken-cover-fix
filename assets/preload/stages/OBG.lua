@@ -1,6 +1,27 @@
+local u = false;
+local r = 0;
+local i =0
+local shot = false;
+local agent = 1
+local health = 0;
+local xx = 350;
+local yy = 999;
+local xx2 = 750;
+local yy2 = 1100;
+local ofs = 85;
+local followchars = true;
+local stopMoving = false;
+local del = 0;
+local del2 = 0;
+local BGX = -900
+local BGY = -300
+local SCX = 1
+local SCY = 1
+
 function onCreate()
 	-- background shit
 	
+	local S = 0.6
 	
 	
 	makeLuaSprite('sky', 'Shaggy/OBG/sky', -800, 150);
@@ -48,11 +69,22 @@ function onCreate()
 	setScrollFactor('MANIA', 2,2);
 	addLuaSprite('MANIA', true);
 
+
 function onUpdate(elapsed)
     setObjectCamera('MANIA', 'hud');
     setObjectCamera('Sh', 'hud');
 
+	daElapsed = elapsed * 30
+	i = i + daElapsed
 	
+
+	if del > 0 then
+		del = del - 1
+	end
+	if del2 > 0 then
+		del2 = del2 - 1
+	end
+     if followchars == true then
         if mustHitSection == false then
             doTweenAngle('screenTilt', 'camGame', 1.1, 0.1, 'quadInOut')
             if getProperty('dad.animation.curAnim.name') == 'singLEFT' then
@@ -113,5 +145,8 @@ function onUpdate(elapsed)
     else
         triggerEvent('Camera Follow Pos','','')
     end
+    
+end
+
 
 end
