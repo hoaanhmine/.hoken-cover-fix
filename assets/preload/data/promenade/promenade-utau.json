@@ -3108,9 +3108,9 @@
 		],
 		"player3": "gf",
 		"offset": 0,
-		"splashSkin": "note/entityA",
+		"splashSkin": "note/EntityA",
 		"song": "promenade",
-		"arrowSkin": "note/entity",
+		"arrowSkin": "note/Entity",
 		"validScore": true,
 		"speed": 2,
 		"events": [],
@@ -3126,7 +3126,6 @@
 		],
 		"stage": "hall",
 		"needsVoices": true,
-		"noteStyle": "normal",
 		"bpm": 128
 	}
 }
