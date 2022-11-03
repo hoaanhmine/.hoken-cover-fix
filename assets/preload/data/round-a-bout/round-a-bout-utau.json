@@ -8915,13 +8915,13 @@
 		"gfVersion": "gf-needlemouseRTX",
 		"events": [],
 		"player3": null,
-		"splashSkin": "Note/NeedlemouseA",
+		"splashSkin": "note/needlemouseA",
 		"song": "Round-a-bout",
 		"stage": "needle",
 		"sections": 0,
 		"validScore": true,
 		"needsVoices": true,
-		"arrowSkin": "Note/Needlemouse",
+		"arrowSkin": "note/needlemouse",
 		"bpm": 107,
 		"speed": 3.5
 	}
