@@ -18,7 +18,7 @@ local del2 = 0;
 
 function onCreate()
 
-	makeLuaSprite('sky','RTX/No Good/sky',-400,-200)
+	makeLuaSprite('sky','RTX/No good/sky',-400,-200)
 	addLuaSprite('sky',false)
 	setLuaSpriteScrollFactor('sky', 0.5, 0.5);
 	makeLuaSprite('Sh', 'Shadow', 0, 0);
