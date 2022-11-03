@@ -82,7 +82,7 @@
           ],
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -102,7 +102,7 @@
           ],
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -177,7 +177,7 @@
         [
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -1457,7 +1457,7 @@
         [
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -1468,7 +1468,7 @@
           [
             "Play Animation",
             "mic",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1518,7 +1518,7 @@
           [
             "Play Animation",
             "mic",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1547,7 +1547,7 @@
           ],
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -1568,7 +1568,7 @@
           [
             "Play Animation",
             "mic",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1578,7 +1578,7 @@
           [
             "Play Animation",
             "mic",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1598,7 +1598,7 @@
           [
             "Play Animation",
             "hurt",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1618,7 +1618,7 @@
           [
             "Play Animation",
             "scared",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1628,7 +1628,7 @@
           [
             "Play Animation",
             "scared",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1648,7 +1648,7 @@
           [
             "Play Animation",
             "scared",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1658,7 +1658,7 @@
           [
             "Play Animation",
             "scared",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1678,7 +1678,7 @@
           [
             "Play Animation",
             "scared",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1688,7 +1688,7 @@
           [
             "Play Animation",
             "scared",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1703,7 +1703,7 @@
           [
             "Play Animation",
             "scared",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1718,7 +1718,7 @@
           [
             "Play Animation",
             "scared",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1733,7 +1733,7 @@
           [
             "Play Animation",
             "scared",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1748,7 +1748,7 @@
           [
             "Play Animation",
             "scared",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -1772,7 +1772,7 @@
           ],
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -1867,7 +1867,7 @@
           ],
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -1877,7 +1877,7 @@
         [
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -1968,7 +1968,7 @@
           [
             "Play Animation",
             "hurt",
-            "BF"
+            "bf"
           ]
         ]
       ],
@@ -2047,7 +2047,7 @@
         [
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -2057,7 +2057,7 @@
         [
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -2097,7 +2097,7 @@
         [
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -2107,7 +2107,7 @@
         [
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -2192,7 +2192,7 @@
           ],
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ],
           [
@@ -2247,7 +2247,7 @@
         [
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ],
           [
@@ -2337,7 +2337,7 @@
         [
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ],
           [
@@ -2352,7 +2352,7 @@
         [
           [
             "Change Character",
-            "BF",
+            "bf",
             "bfFWF"
           ]
         ]
@@ -35608,9 +35608,8 @@
       }
     ],
     "player3": null,
-    "mania": 0,
     "splashSkin": "note/FourA",
-    "song": "Four-Way-Fracture",
+    "song": "four-way-fracture",
     "stage": "FourWay",
     "validScore": true,
     "needsVoices": true,
