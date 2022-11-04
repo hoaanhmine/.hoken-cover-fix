@@ -22,12 +22,12 @@ function onCreate()
     scaleObject('barbot',1,1.5 );
 
     
-	makeLuaSprite('sky', 'doki/images/bigmonika/sky', -450, 0);
+	makeLuaSprite('sky', 'doki/images/bigmonika/Sky', -450, 0);
 	setScrollFactor('sky', 0.7,0.7);
 	scaleObject('sky',2,2 );
 	addLuaSprite('sky', false);
 
-	makeLuaSprite('bg', 'doki/images/bigmonika/bg', -320, -100);
+	makeLuaSprite('bg', 'doki/images/bigmonika/BG', -320, -100);
 	setScrollFactor('bg', 1,1);
 	scaleObject('bg',1.2,1.2 );
 	addLuaSprite('bg', false);
@@ -47,7 +47,7 @@ function onCreate()
 	setScrollFactor('BL', 2,2);
 	addLuaSprite('BL', true);
 
-    makeLuaSprite('WTH', 'h24/images/Covers/White', -300, 0);
+    makeLuaSprite('WTH', 'h24/images/covers/White', -300, 0);
 	setScrollFactor('WTH', 1,1);
 	scaleObject('WTH',4,4 );
 	addLuaSprite('WTH', false);
